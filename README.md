@@ -1,3 +1,3 @@
 Final Project MSIB 7 Course-net - Storage Management System
-client menggunakan Bahasa Pemrograman dart, Framework Flutter
-server menggunakan Bahasa Pemrograman JavaScript
+1. client menggunakan Bahasa Pemrograman dart, Framework Flutter
+2. server menggunakan Bahasa Pemrograman JavaScript
